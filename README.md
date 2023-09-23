@@ -2,7 +2,7 @@
 Repositorio de Caleb Morales
 # Tarea de TypeScript
 
-Este repositorio contiene mi solución para la tarea de TypeScript del curso [Nombre del Curso] en [Nombre de la Institución]. En esta tarea, he implementado [Descripción breve de la tarea, por ejemplo, un sistema de gestión de tareas].
+Este repositorio contiene mi solución para la tarea de TypeScript del curso Lenguaje Audiovisual en La Univesidad La Salle. En esta tarea, he implementado typeScript
 
 ## Contenido
 
